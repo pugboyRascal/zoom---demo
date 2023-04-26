@@ -1,0 +1,29 @@
+{
+    "name": "ZOOM - DEMO",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-zoom": "github:kiwiphoenix364/pxt-zoom#57581e6e60872395c34781159e849952b034905b"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.8.23",
+        "tag": "v1.8.23",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/9c2cb5aa7c70a9b9cbfa1b3520ca036d82ba8483",
+        "target": "1.12.30",
+        "pxt": "7.4.27",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
